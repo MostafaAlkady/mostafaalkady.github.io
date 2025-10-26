@@ -29,7 +29,7 @@ menu:
           weight: 6
 
 params:
-    description: "This website hosts Mostafa Alkady's research papers, books, course materials, data, curriculum vitae, and contact information."
+    description: "Mostafa Alkady's Academic Website"
     author: Mostafa Alkady
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -56,7 +56,7 @@ params:
           enabled: true
           title: Mostafa Alkady
           subtitle: "I'm a Physics PhD Student at Northeastern University, working under the supervision of Prof Max Bi. I'm interested in Biophysics, Statistical Physics, Machine Learning, and their intersections."
-          imageUrl: "static/picture.png"
+          imageUrl: "/static/picture.png"
           imageWidth: 250
           imageHeight: 320
           buttons:
